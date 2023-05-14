@@ -1,0 +1,35 @@
+/*Generic Nav Bar*/
+nav{
+    background: rgba(0, 0, 0, .2);
+    width: max-content;
+    display: block;
+    padding: 0.7rem 1.7rem;
+    z-index: 2;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 2rem;
+    display: flex;
+    gap: .8rem;
+    border-radius: 3rem;
+    backdrop-filter: blur(15px);
+}
+
+nav a{
+    background: transparent;
+    padding: .3rem;
+    border-radius: 50%;
+    display: flex;
+    color: var(--color-primary);
+    font-size: 1.5rem;
+}
+
+/*Hoover of Nav icons*/
+nav a:hover{
+    background: rgba(0, 0, 0, .2);
+}
+/*Active Icons*/
+nav a.active{
+    background: var(--color-bg);
+    color: var(--color-white);
+}
