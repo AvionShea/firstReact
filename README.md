@@ -1,10 +1,10 @@
 # React Portfolio Website
 
-This is my first React project. My motivation for this project was to showcase additional projects on a website created by me.
+This is my first React project. My motivation for this project was to showcase additional projects on a website created by me
 
-There are several components this React portfolio consists of. These include the about, contact, experience, footer, header, navigation bar, portfolio, references, and services. Each area taught me something new. From this project, I was able to learn hover funtions, creating a working contact form, SwiperJS, a download button, and so much more.
+There are several components this React portfolio consists of. These include the about, contact, experience, footer, header, navigation bar, portfolio, references, and services. Each area taught me something new. From this project, I was able to learn hover functions, creating a working contact form, SwiperJS, a download button, and so much more. 
 
-Vistors can either utilize the navigation bar, which follows the page or the scroll bar, that uses the websites theme colors. If needed, they are able to click icons that would either take them to my LinkedIn, Github, or allow them to send me an email.
+Visitors can either utilize the navigation bar, which follows the page or the scroll bar, that uses the websites theme colors. If needed, they are able to click icons that would either take them to my LinkedIn, GitHub, or allow them to send me an email. 
 
 # Getting Started with Create React App
 
